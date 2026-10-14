@@ -1,152 +1,292 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,11,20&height=240&section=header&text=Arjun%20Babu%20S%20S&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=CSE%20(Cyber%20Security)%20%7C%20Web%20Dev%20%7C%20GenAI&descAlignY=60&descAlign=50" width="100%" alt="Header"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=760&lines=Frontend+Developer+Intern+%40+Webdezn;Python+%7C+Django+%7C+React.js+%7C+SQL;Building+GenAI+and+RAG+applications;Open+to+SDE%2C+AI+and+Tech+Opportunities" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:190000,75:8B0000,100:FF0000&height=260&section=header&text=ARJUN%20BABU&fontSize=62&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=SOFTWARE%20DEVELOPER%20%2F%2F%20BUILDING%20BEYOND%20THE%20OBVIOUS&descSize=15&descAlignY=60&descColor=FF4D4D" width="100%" alt="Arjun Babu — Software Developer"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:300000,50:FF0000,100:550000&height=3&section=header" width="100%" alt="Red divider"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=16&duration=2200&pause=650&color=67E8F9&center=true&vCenter=true&repeat=true&width=750&height=45&lines=%5B+SYSTEM+ONLINE+%5D;%3E+Building+software+that+solves+real+problems;%3E+Python+%2F%2F+Backend+%2F%2F+Applied+AI;%3E+Curiosity+is+my+development+environment" alt="Animated developer tagline"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-babu-6a966a34a)
-[![Gmail](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjunbabu2609@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Arjunbabu2609-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arjunbabu2609)
+<a href="https://github.com/Arjunbabu2609"><img src="https://img.shields.io/badge/PROFILE-18181B?style=for-the-badge&logo=github&logoColor=67E8F9" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/arjun-babu-6a966a34a"><img src="https://img.shields.io/badge/CONNECT-18181B?style=for-the-badge&logo=linkedin&logoColor=67E8F9" alt="LinkedIn"/></a>
+<a href="mailto:arjunbabu2609@gmail.com"><img src="https://img.shields.io/badge/CONTACT-18181B?style=for-the-badge&logo=gmail&logoColor=F472B6" alt="Email"/></a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Arjunbabu2609&style=flat-square&color=7C3AED&label=PROFILE+VISITS" alt="Profile visits"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
+
+### `01 — IDENTITY`
+
+**SOFTWARE DEVELOPER · AI EXPLORER · PROBLEM SOLVER**
+
+*I don't just want to use technology. I want to understand it, build with it, and make it useful.*
+
+</div>
 
 ```python
-class Arjunbabu:
+class Developer:
     def __init__(self):
-        self.location   = "Coimbatore, Tamil Nadu, India"
-        self.education  = "BE CSE (Cyber Security) @ Easa College of Engineering & Technology"
-        self.cgpa       = 8.75
-        self.focus      = ["Software Development", "GenAI / AI Agents", "Machine Learning"]
-        self.interests  = ["Embedded Systems", "Automation", "Technical Operations"]
-        self.status     = "Seeking opportunities in software, AI/GenAI and tech roles"
+        self.name = "Arjun Babu S S"
+        self.role = "Software Developer"
+        self.degree = "BE CSE (Cyber Security)"
+        self.college = "Easa College of Engineering & Technology"
+        self.graduation = 2027
 
-    def summary(self):
-        return "Hands-on with web apps, GenAI and AI-assisted development."
+        self.primary_stack = ["Python", "Django", "SQL"]
+        self.exploring = ["GenAI", "RAG", "Machine Learning"]
+        self.frontend = ["HTML", "CSS", "JavaScript"]
+
+    def philosophy(self):
+        return "Learn the logic. Build the solution. Keep evolving."
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:22D3EE,100:EC4899&height=3&section=header" width="100%" alt="Neon section divider"/>
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript_(ES6+)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Frameworks & Frontend**
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**AI / Data & Tools**
-
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Arjunbabu2609&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-<img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunbabu2609&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 💼 Experience
+### `02 — ARSENAL.EXE`
 
 <details open>
-<summary><b>Frontend Developer Intern</b> @ Webdezn Technologies &nbsp;·&nbsp; April – July 2026</summary>
+<summary><b>⌘ Languages & Web Technologies</b></summary>
 
-- Developed responsive **React.js** interfaces for a **Construction ERP** application using reusable components and structured page layouts.
-- Integrated frontend screens with **REST APIs** to support application data flow and CRUD-based workflows.
-- Worked on ERP modules: authentication, dashboards, projects, budget, materials, employees, timelines, approvals, analytics and settings.
-- Collaborated remotely using **Git** and project management tools.
+<br/>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js,bootstrap&theme=dark&perline=5" alt="Python, HTML, CSS, JavaScript and Bootstrap"/>
+
+</div>
 
 </details>
 
----
+<details open>
+<summary><b>⌘ Backend & Data</b></summary>
 
-## 🚀 Projects
+<br/>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=django,fastapi,sqlite,mysql&theme=dark&perline=4" alt="Django, FastAPI, SQLite and MySQL"/>
+
+</div>
+
+</details>
 
 <details open>
-<summary><b>🔎 AI Scheme Finder</b> &nbsp;·&nbsp; <code>Python · FastAPI · Streamlit · RAG</code></summary>
+<summary><b>⌘ AI / Intelligent Systems</b></summary>
 
-- An application for accessing and retrieving information about government schemes.
-- Built with FastAPI, Streamlit, Sentence Transformers, FAISS and Generative AI.
-- Implemented retrieval-based search to surface relevant scheme information.
+<div align="center">
+
+<img src="https://img.shields.io/badge/GENERATIVE_AI-7C3AED?style=for-the-badge&logoColor=white" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/RAG-0891B2?style=for-the-badge" alt="Retrieval augmented generation"/>
+<img src="https://img.shields.io/badge/FAISS-2563EB?style=for-the-badge" alt="FAISS"/>
+<img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+
+</div>
 
 </details>
 
 <details>
-<summary><b>🛒 E-Commerce Web Application</b> &nbsp;·&nbsp; <code>Django · SQLite3 · HTML · CSS · JS</code></summary>
+<summary><b>⌘ Developer Tools</b></summary>
 
-- Web-based e-commerce app with product, category and database management.
-- CRUD operations using the Django ORM and URL routing.
-- Responsive pages built with Django templates.
+<br/>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=3" alt="Git, GitHub and VS Code"/>
+
+</div>
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,50:7C3AED,100:22D3EE&height=3&section=header" width="100%" alt="Neon section divider"/>
+
+### `03 — DEPLOYED PROJECTS`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/PROJECT_01-AI_SYSTEMS-7C3AED?style=flat-square" alt="AI project"/>
+
+### ◈ AI Scheme Finder
+
+A smarter way to discover relevant government schemes using semantic retrieval and generative AI.
+
+**Core engineering**
+- Sentence Transformers for embeddings
+- FAISS for similarity search
+- RAG-based retrieval
+- FastAPI + Streamlit
+
+`PYTHON` `RAG` `FAISS`
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/PROJECT_02-ENTERPRISE-0891B2?style=flat-square" alt="Enterprise project"/>
+
+### ◈ Construction ERP
+
+An enterprise-style construction management interface developed during my internship.
+
+**Core engineering**
+- Dashboard and operational modules
+- Projects, budgets and materials
+- REST API integration
+- Approval and analytics interfaces
+
+`REACT` `REST API` `ERP`
+
+[↗ View live application](https://construction-erp-web.netlify.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/PROJECT_03-BACKEND-16A34A?style=flat-square" alt="Backend project"/>
+
+### ◈ ShopX — E-Commerce
+
+A hands-on backend engineering project exploring how e-commerce applications work behind the scenes.
+
+**Core engineering**
+- Product and category management
+- Database queries using Django ORM
+- CRUD operations and URL routing
+- SQLite database integration
+
+`PYTHON` `DJANGO` `SQL`
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/PROJECT_04-MACHINE_LEARNING-F59E0B?style=flat-square" alt="Machine learning project"/>
+
+### ◈ Dr. Dine
+
+A smart food recommendation application combining machine learning and OCR.
+
+**Core engineering**
+- Logistic Regression
+- Tesseract text extraction
+- Python-based processing
+- Streamlit application
+
+`ML` `PYTHON` `OCR`
+
+[↗ View source code](https://github.com/Arjunbabu2609/Dr.dine---Smart-food-recommender)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=650&height=30&lines=Four+projects.+Different+problems.+One+engineering+mindset." alt="Animated project motto"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:22D3EE,100:EC4899&height=3&section=header" width="100%" alt="Neon section divider"/>
+
+### `04 — PROFESSIONAL TIMELINE`
+
+<details open>
+<summary><b>2026 · Frontend Developer Intern</b></summary>
+
+**Webdezn Technologies**
+
+- Developed construction ERP interfaces.
+- Worked with REST API integration and CRUD workflows.
+- Contributed to project, budget, material, employee and analytics modules.
 
 </details>
 
 <details>
-<summary><b>🏗️ Construction ERP</b> &nbsp;·&nbsp; <code>React.js</code></summary>
+<summary><b>2023–2027 · Engineering</b></summary>
 
-- Web-based ERP interface for construction operations.
-- Dashboards and modules for projects, budgets, materials, employees, approvals, timelines and analytics.
-- Role-based access concepts and data-driven interfaces.
+**BE Computer Science & Engineering (Cyber Security)**
+
+Easa College of Engineering and Technology
+
+- Current academic record: CGPA 8.75 through Semester VI.
+- Focused on software development and applied AI alongside the degree.
 
 </details>
 
----
+<details>
+<summary><b>2022–2023 · Higher Secondary</b></summary>
 
-## 🎓 Education
+St. Thomas Higher Secondary School · 73%
 
-| Degree | Institution | Period | Score |
-|:--|:--|:--|:--|
-| BE CSE (Cyber Security) | Easa College of Engineering and Technology | 2023 – 2027 | CGPA 8.75 (6th Sem) |
-| Higher Secondary | St. Thomas Higher Secondary School | 2022 – 2023 | 73% |
+</details>
 
----
-
-## 🏅 Certifications
-
-- ✅ **Python & SQL**: HackerRank
-- ✅ **Generative AI**: Outskills
-- ✅ **Frontend Development**: Study Comrade Pvt. Ltd.
-- ✅ **AI Fundamentals**: IBM SkillsBuild
-
----
-
-## 📫 Let's Connect
+### `05 — CERTIFICATION VAULT`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-arjun--babu-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-babu-6a966a34a)
-[![Email](https://img.shields.io/badge/Email-arjunbabu2609%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:arjunbabu2609@gmail.com)
+<img src="https://img.shields.io/badge/PYTHON_%26_SQL-HACKERRANK-22C55E?style=for-the-badge" alt="Python and SQL certification"/>
+<img src="https://img.shields.io/badge/GENERATIVE_AI-OUTSKILL-8B5CF6?style=for-the-badge" alt="Generative AI certification"/>
 
-📍 Coimbatore, Tamil Nadu, India &nbsp;|&nbsp; 📱 +91 80729 07373
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,11,20&height=120&section=footer&animation=twinkling" width="100%" alt="Footer"/>
+<img src="https://img.shields.io/badge/FRONTEND_DEVELOPMENT-STUDY_COMRADE-0891B2?style=for-the-badge" alt="Frontend development certification"/>
+<img src="https://img.shields.io/badge/AI_FUNDAMENTALS-IBM_SKILLSBUILD-2563EB?style=for-the-badge" alt="AI Fundamentals certification"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,50:7C3AED,100:22D3EE&height=3&section=header" width="100%" alt="Neon section divider"/>
+
+### `06 — GITHUB TELEMETRY`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Arjunbabu2609&show_icons=true&hide_border=true&bg_color=080B16&title_color=67E8F9&text_color=E2E8F0&icon_color=F472B6&ring_color=8B5CF6" alt="GitHub statistics"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunbabu2609&layout=compact&hide_border=true&bg_color=080B16&title_color=67E8F9&text_color=E2E8F0" alt="Most used languages"/>
+
+<br/><br/>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Arjunbabu2609&bg_color=080B16&color=67E8F9&line=8B5CF6&point=F472B6&area=true&hide_border=true&custom_title=ACTIVITY%20%2F%2F%20BUILD%20LOG" alt="Animated-style contribution activity graph"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Arjunbabu2609&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub achievement trophies"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:22D3EE,100:EC4899&height=3&section=header" width="100%" alt="Neon section divider"/>
+
+### `07 — NEXT OBJECTIVES`
+
+```text
+[ IN PROGRESS ]  Backend engineering with Python & Django
+[ EXPLORING    ]  Machine Learning and Generative AI
+[ BUILDING     ]  Practical applications with real-world value
+[ TARGET       ]  Software development opportunities
+```
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=17&duration=3000&pause=900&color=F472B6&center=true&vCenter=true&width=650&height=40&lines=STAY+CURIOUS.+SHIP+SOMETHING+USEFUL.;THE+NEXT+VERSION+IS+ALWAYS+IN+PROGRESS.;THANKS+FOR+VISITING+MY+CORNER+OF+GITHUB." alt="Animated closing message"/>
+
+<br/>
+
+<a href="https://github.com/Arjunbabu2609"><img src="https://img.shields.io/badge/EXPLORE_MY_CODE-080B16?style=for-the-badge&logo=github&logoColor=67E8F9" alt="Explore GitHub"/></a>
+<a href="https://www.linkedin.com/in/arjun-babu-6a966a34a"><img src="https://img.shields.io/badge/LET'S_CONNECT-080B16?style=for-the-badge&logo=linkedin&logoColor=67E8F9" alt="Connect on LinkedIn"/></a>
+
+<br/><br/>
+
+<sub>Designed around curiosity, built with code, and always evolving.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BE185D,50:4C1D95,100:050816&height=140&section=footer&animation=twinkling" width="100%" alt="Animated neon footer"/>
 
 </div>
